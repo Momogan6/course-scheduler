@@ -13,7 +13,7 @@ const deployConfig = {
     appVersion: '1.0.0',
     author: 'Your Name',
     contact: 'dev@example.com',
-    repository: 'https://github.com/Momogan6/course-scheduler'
+    repository: 'https://github.com/Momogan6/course-scheduler.git'
   },
   
   // Development environment configuration
