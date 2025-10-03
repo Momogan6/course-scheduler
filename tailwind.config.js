@@ -11,7 +11,7 @@ const deployConfig = {
   common: {
     appName: 'Class Scheduler',
     appVersion: '1.0.0',
-    author: 'Your Name',
+    author: 'Momogan6',
     contact: 'dev@example.com',
     repository: 'https://github.com/Momogan6/course-scheduler.git'
   },
